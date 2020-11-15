@@ -26,3 +26,9 @@
 .mytable th td {
     padding: 10px 5px;
 }
+
+.text-red {
+    color: #ce2424;
+    font-weight: 700;
+    font-style:italic;
+}
